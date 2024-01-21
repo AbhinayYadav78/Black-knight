@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abhinay Yadav's Personal Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Hello, I'm Abhinay Yadav</h1>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>I am currently in class 11 and enjoy playing cricket and listening to music in my free time.</p>
+    </section>
+
+    <section>
+        <h2>Hobbies</h2>
+        <p>I have a passion for playing cricket and exploring various genres of music.</p>
+    </section>
+
+    <footer>
+        <p>Thanks for visiting my personal webpage!</p>
+    </footer>
+
+</body>
+</html>
